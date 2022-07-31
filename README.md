@@ -1,7 +1,6 @@
 ### Hello World, I'm Igor  👋
 
 <img align="right" alt="GIF" src="https://storage.googleapis.com/www-paredro-com/uploads/2015/08/disleadores-5.gif" height="300" />
-<br />
 
 ## I'm a future Software Engineer from Brazil !!
 - ✍ I’m currently working on my portfolio
@@ -10,7 +9,7 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 
-## Languages and Tools (Main):
+### Languages and Tools (Main):
 
 <code><img alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></code>
 <code><img alt="HTML5" width="30" 
@@ -26,9 +25,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img alt="Terminal" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 
 <img align="right" alt="Igor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=igorFrotte&show_icons=true&hide_border=true" />
-<br />
 
-### Languages and Tools (Others):
+#### Languages and Tools (Others):
 
 <code><img alt="C" width="30" 
 src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /></code>
@@ -42,7 +40,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
 
 
-### Languages and Tools (Learning):
+#### Languages and Tools (Learning):
 
 <code><img alt="Node.js" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
 <code><img alt="TypeScript" width="30"
