@@ -2,10 +2,11 @@
 
 <img align="right" alt="GIF" src="https://storage.googleapis.com/www-paredro-com/uploads/2015/08/disleadores-5.gif" height="300" />
 
+
 ## I'm a future Software Engineer from Brazil !!
 - ✍ I’m currently working on my portfolio
 - 🌱 I’m currently studying at Driven Education
-- 👯 I’m looking to collaborate on open source
+- 🤝 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 
@@ -25,6 +26,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img alt="Terminal" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 
 <img align="right" alt="Igor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=igorFrotte&show_icons=true&hide_border=true" />
+
 
 ### Languages and Tools (Others):
 
