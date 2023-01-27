@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://storage.googleapis.com/www-paredro-com/uploads/2015/08/disleadores-5.gif" height="300" />
 
-## I'm a future Software Engineer from Brazil !!
+## I'm a future Software Engineer from Brazil !
 - 🤝 I'm looking for a job opportunity
 - ✍ I’m currently working on my portfolio
 - 🌱 I’m currently studying at Driven Education
@@ -41,12 +41,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
 
 
-#### Languages and Tools (Learning):
+#### Contact:
 
-<code><img alt="Ruby" width="30" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></code>
-<code><img alt="Rails" width="30"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /></code>
-
-[instagram]: https://www.instagram.com/igorfrotte/
-[linkedin]: https://www.linkedin.com/in/igor-frott%C3%A9-1a4723212/
+<div align="left">
+  <a href="https://www.linkedin.com/in/igorFrotte" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:igorfrotte@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="20" alt="gmail logo"  />
+  </a>
+</div>
