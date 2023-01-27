@@ -3,15 +3,14 @@
 <img align="right" alt="GIF" src="https://storage.googleapis.com/www-paredro-com/uploads/2015/08/disleadores-5.gif" height="300" />
 
 ## I'm a future Software Engineer from Brazil !!
+- 🤝 I'm looking for a job opportunity
 - ✍ I’m currently working on my portfolio
 - 🌱 I’m currently studying at Driven Education
-- 🤝 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 
 ### Languages and Tools (Main):
 
-<code><img alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></code>
 <code><img alt="HTML5" width="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" width="30" 
@@ -22,7 +21,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img alt="Git" width="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img alt="GitHub" width="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-<code><img alt="Terminal" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+<code><img alt="Node.js" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
+<code><img alt="TypeScript" width="30"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
 
 <img align="right" alt="Igor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=igorFrotte&show_icons=true&hide_border=true" />
 
@@ -42,9 +43,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 #### Languages and Tools (Learning):
 
-<code><img alt="Node.js" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-<code><img alt="TypeScript" width="30"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
 <code><img alt="Ruby" width="30" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></code>
 <code><img alt="Rails" width="30"
