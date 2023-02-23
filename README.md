@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://storage.googleapis.com/www-paredro-com/uploads/2015/08/disleadores-5.gif" height="300" /> 
 
-## I'm a Software Engineer from Brazil ! 
+## I'm a Software Engineer from Brazil !  
 - 🤝 I'm looking for a job opportunity
 - ✍ I’m currently working on my portfolio
 - 🌱 I’m currently studying at Driven Education
