@@ -1,6 +1,6 @@
 ### Hello World, I'm Igor  👋
 
-<img align="right" alt="GIF" src="https://storage.googleapis.com/www-paredro-com/uploads/2015/08/disleadores-5.gif" height="300" /> 
+<img align="right" alt="GIF" src="https://storage.googleapis.com/www-paredro-com/uploads/2015/08/disleadores-5.gif" height="300" />  
 
 ## I'm a Software Engineer from Brazil !  
 - 🤝 I'm looking for a job opportunity
