@@ -4,8 +4,8 @@
 
 ## I'm a Software Engineer from Brazil !  
 - 🤝 I'm looking for a job opportunity
-- ✍ I’m currently working on my portfolio
-- 🌱 I graduated from Driven Education
+- ✍ I'm currently working on my portfolio
+- 🌱 I'm a graduate of Driven Education
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 
