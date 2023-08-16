@@ -1,4 +1,4 @@
-### Hello World, I'm Igor  👋
+### Hello World, I'm Igor Frotté  👋
 
 <img align="right" alt="GIF" src="https://storage.googleapis.com/www-paredro-com/uploads/2015/08/disleadores-5.gif" height="300" /> 
 
